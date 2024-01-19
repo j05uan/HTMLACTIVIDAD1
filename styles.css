@@ -1,0 +1,77 @@
+#contenedor{    width: 1000px;
+    height: 800px;
+    border: 8px solid red;
+    margin: 1px auto;
+    padding: 1px;} 
+
+    #header {
+        width: 98%;
+        height: 178px;
+        border: 8px solid blue;
+        margin: 2px auto;
+        padding: 1px;
+    }
+    #logo{
+        width: 160px;
+        height: 88%;
+        float: left;
+        border: 9px solid green;
+        margin: 2 px auto;
+        padding: 1px;
+        color: green;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #banner{
+        width: 777px;
+        height: 88%;
+        float: right;
+        border: 9px solid green;
+        margin: 2 px auto;
+        padding: 1px;
+        color: green;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .space{
+        width: 98%;
+        height: 28px;
+        border: 8px solid blue;
+        margin: 2px auto;
+        padding: 1px;
+    }
+    #content{
+        width: 98%;
+        height: 478px;
+        border: 8px solid blue;
+        margin: 2px auto;
+        padding: 1px;
+    }
+    #articles{
+        width: 677px;
+        height: 95%;
+        float: left;
+        border: 8px solid green;
+        color: green;
+        margin: 2px auto;
+        padding: 1px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+    #aside{
+        width: 260px;
+        height: 95%;
+        border: 8px solid green;
+        float: right;
+        margin: 2px auto;
+        padding: 1px;
+        color: green;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
